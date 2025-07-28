@@ -1,0 +1,31 @@
+<div class="subheader">
+    <h1> Your Calculator</h1>
+</div>
+<div class="calculator-card">
+    <div>
+  <input type="number" [(ngModel)]="num1" placeholder="Enter first number" />
+  <br>
+  <br>
+  <div class="dropdown-button">
+  <select [(ngModel)]="operator">
+    <option value="+">+</option>
+    <option value="-">-</option>
+    <option value="*">*</option>
+    <option value="/">/</option>
+  </select>
+  </div>
+  <br>
+  <br>
+  <br>
+  <div>
+    
+<input type="number" [(ngModel)]="num2" placeholder="Enter second number" />
+  </div>
+  <br>
+  
+  <button (click)="calculate()">Calculate</button>
+  <h1 *ngIf="result !== undefined">Result: {{ result }}</h1>
+
+  
+</div>
+
