@@ -3,7 +3,7 @@
 This is a simple calculator built using Angular that performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
 
 ## 🔍 Screenshot
-<img src="https://raw.githubusercontent.com/mallick207021/angular-basic-calculator/main/src/assets/calculator.png" width="300"/>
+<img src="https://raw.githubusercontent.com/mallick207021/angular-basic-calculator/main/src/assets/calculator-preview.png" width="300"/>
 
 ## 🚀 How to Run
 
