@@ -1,32 +1,25 @@
-# 🧮 Basic Calculator - Angular 18
+# Angular Basic Calculator 🧮
 
-A basic calculator web app built using **Angular 18**. It performs standard arithmetic operations (Addition, Subtraction, Multiplication, Division) with a clean user interface.
+This is a simple calculator built using Angular that performs basic arithmetic operations like Addition, Subtraction, Multiplication, and Division.
 
----
+## 🔍 Screenshot
+<img src="https://raw.githubusercontent.com/mallick207021/angular-basic-calculator/main/src/assets/calculator.png" width="300"/>
 
-## 📌 Features
+## 🚀 How to Run
 
-- Add, Subtract, Multiply, Divide
-- Clear & Delete inputs
-- Mobile responsive UI
-- Built with Angular 18 (CLI v18.2.12)
-- Organized code with reusable components
+1. Clone the repository  
+   `git clone https://github.com/mallick207021/angular-basic-calculator.git`
 
----
+2. Install dependencies  
+   `npm install`
 
-## 🛠️ Tech Stack
+3. Run the project  
+   `ng serve`
 
-- Angular 18 (TypeScript)
-- HTML5 + SCSS
+Then open your browser at `http://localhost:4200`.
+
+## 📦 Built With
+
+- Angular 18+
+- TypeScript
 - Bootstrap (optional)
-- Node.js (for dev server)
-
----
-
-## 🚀 Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/basiccalculator.git
-cd basiccalculator
